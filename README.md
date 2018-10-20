@@ -1,4 +1,4 @@
-# UIUCLambdas.github.io
+# UIUCLambdas
 
 Lambda Phi Epsilon International Fraternity, Incorporated at the University of Illinois at Urbana-Champaign
 
